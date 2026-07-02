@@ -61,4 +61,4 @@ Stay tuned for more!
 
 If you're also on a learning journey or have tips, feel free to connect or share feedback!
 
-### ⭐ If you find this helpful or inspiring, consider giving the repo a star!
+### If you find this helpful or inspiring, consider giving the repo a star!
